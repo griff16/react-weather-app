@@ -15,3 +15,5 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 # react-weather-app
+
+This App can tell the current weather of a city that user wish to know
